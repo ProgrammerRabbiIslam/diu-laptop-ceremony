@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(100, 123, 165);
+}
+
+.logoImage{
+
+    width: auto;
+    height: 10px;
+}
+.topnav a:hover {
+    border-bottom: 3px solid rgb(25, 114, 197);
+}
+
+.laptopHeaderImage{
+    margin-top: 2px;
+    width: 100%;
+    height: 220px;
+}
+
+.lImage{
+    
+    width: 100%;
+    height: 100%;
+}
+
+.photoGallery{
+    margin-top: 30px;
+    text-align: center;
+}
+.slider-image{
+    width: 100%;
+    height: 100%;
+}
+.slider{
+    width: 60%;
+ height: 400px;
+ overflow: hidden;
+}
+
+.pb-video-container {
+    padding-top: 20px;
+    /* background: #bdc3c7; */
+    font-family: Lato;
+}
+
+.pb-video {
+    border: 1px solid #e6e6e6;
+    padding: 5px;
+}
+
+    .pb-video:hover {
+        background: #2c3e50;
+    }
+
+.pb-video-frame {
+    transition: width 2s, height 2s;
+}
+
+    .pb-video-frame:hover {
+        height: 300px;
+    }
+
+.pb-row {
+    margin-bottom: 10px;
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+
+
